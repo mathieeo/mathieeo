@@ -22,15 +22,15 @@ Hi, my name is Matthew, and I'm a software engineer; I have +9 years experiences
 </p>
 
 ## Tools/OS:
-![Image](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
-![Image](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Image](https://img.shields.io/badge/QtCreator-0078D4?style=for-the-badge&logo=qt%20studio%20code&logoColor=white)
-![Image](https://img.shields.io/badge/Xcode-0078D4?style=for-the-badge&logo=xcode%20studio%20code&logoColor=white)
-![Image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Image](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Image](https://img.shields.io/badge/MacOS-E95420?style=for-the-badge&logo=macos&logoColor=white)
-![Image](https://img.shields.io/badge/Petalinux-E95420?style=for-the-badge&logo=petalinux&logoColor=white)
+![Image](https://img.shields.io/badge/PyCharm-3178C6.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+![Image](https://img.shields.io/badge/VSCode-3178C6?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Image](https://img.shields.io/badge/QtCreator-3178C6?style=for-the-badge&logo=qt%20studio%20code&logoColor=white)
+![Image](https://img.shields.io/badge/Xcode-3178C6?style=for-the-badge&logo=xcode%20studio%20code&logoColor=white)
+![Image](https://img.shields.io/badge/Windows-3178C6?style=for-the-badge&logo=windows&logoColor=white)
+![Image](https://img.shields.io/badge/Linux-3178C6?style=for-the-badge&logo=linux&logoColor=white)
+![Image](https://img.shields.io/badge/Ubuntu-3178C6?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Image](https://img.shields.io/badge/MacOS-3178C6?style=for-the-badge&logo=macos&logoColor=white)
+![Image](https://img.shields.io/badge/Petalinux-3178C6?style=for-the-badge&logo=petalinux&logoColor=white)
 
 ![](https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47udhct66dvf3bhiwupugd6wetbt7yz0zvvu1tvrnv&rid=giphy.gif&ct=g)
 
